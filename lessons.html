@@ -1,0 +1,89 @@
+
+<html>
+<head><title>Lessons</title></head>
+<body bgcolor="#00072D">
+<h1 align="center"><font family="CenturyGothic" color="#FFFFFF"><strong><u>XHTML</u></strong></font></h1>
+<p><font color="#FFFFFF"> XHTML is an acronym for eXtensible HyperText Markup Language.<br><br>
+The ”x” came from XML or eXtensible Mark-up Language.<br><br>
+Though different from HTML, XHTML also uses the filename extension .html<br><br>
+The content of the actual coding might change because of XHTML conventions but it still holds the same filename extension.<br><br><br></font></p><br><br>
+<h3><font color="#FFFFFF"><strong>Proper Nesting</strong></font></h3>
+<p><font color="#FFFFFF">Proper nesting of elements has been exemplified and XHTML elements must be properly nested.  Proper nesting of elements would mean that, for example, if you were to make a piece of text appear in boldface and italics using <b></b> and <i></i> respectively.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Proper Tag Closing</strong></font></h3>
+<p><font color="#FFFFFF">Recall the container tags.  Container tags have start and end tags; and end tags are defined by a slash.  End tags are used to basically close the tag.  XHTML requires proper closing of tags.<br>Recall empty tags.  Empty tags are stand-alone type of tags, they don’t require an end tag.  But since XHTML requires proper closing, things have changed a bit for empty tags.  A slash defines end tags, thus, it simplifies closing.  In the same sense, a slash will be used in empty tags for it to be properly closed.  A slash is placed before the end of an angle bracket of a tag.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Elements in lowercase letters</strong></font></h3>
+<p><font color="#FFFFFF">XHTML elements MUST be written in lowercase characters.</font></p><br>
+<h3><font color="#FFFFFF"><strong>One Root Element</strong></font></h3>
+<p><font color="#FFFFFF">All XHTML elements MUST be nested within one root element which is html /html.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Attributes in lowercase letters</strong></font></h3>
+<p><font color="#FFFFFF">All XHTML elements MUST be written in lowercase characters same as with the attributes.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Quoted values</strong></font></h3>
+<p><font color="#FFFFFF">All XHTML elements MUST be written in lowercase characters same as with the attributes.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Forbidden Attribute Minimization</strong></font></h3>
+<p><font color="#FFFFFF">In HTML, there are attributes that don’t need values; just like the noshade attribute of horizontal rules, noresize attributes of frames and checked attribute of checkboxes and radio buttons.  But XHTML forbids such (also known as attribute minimization).  In order to fix this, XHTML requires that type of attributes to have a value equal to its attribute name.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Image Alternate Texts</strong></font></h3>
+<p><font color="#FFFFFF">Remember the alt attribute in images?  It is used to display an alternate text of the text that appears when the mouse hovers over the image and when the image cannot be displayed.  In XHTML, image alternative texts are now mandatory.  In cases where the image is only for decoration purposes, you can provide it a null value by using a space.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Amperstands in URLs</strong></font></h3>
+<p><font color="#FFFFFF">Amperstands are usually used in URLs to carry variables.  In XHTML, it is required to escape this using the special character entity (&amp).  On Web browser screens, it is of course displayed as amperstands.</font></p><br>
+<h3><font color="#FFFFFF"><strong>Contents within Block-level elements</strong></font></h3>
+<p><font color="#FFFFFF">In XHTML Strict, you cannot just put content directly inside <body></body>.Contents must be placed within p /p, ol /ol, etc.  (also known as block-level elements).  Another good reason to put <span></span> and <div></div> into practice.</font></p><br><br><br>
+<font color="#FFFFFF">
+<h1 align="center"><font family="CenturyGothic"><strong><u>Lists</u></strong></font></h1>
+<dl align="justify">
+<dt><strong>Ordered List</strong></dt>
+<dd>enumerated</dd>
+<dd>uses ol</dd>
+<dd> with the type attribute,<br>1=arabic numerals<br>A=uppercased alphabet<br>a=lowercased alphabet<br>I=uppercased roman numerals<br>i=lowercased roman numerals</dd>
+<dt><strong>unordered  list</strong></dt>
+<dd>bulleted</dd>
+<dd>uses ul</dd>
+<dd> with the type attribute,<br>disc=round bullets<br>circle=circular bullets<br>square=square bullets</dd>
+<dt><strong>definition list</strong></dt>
+<dd>also known as glossary list</dd>
+<dd>uses dt for the item itself</dd>
+<dd>uses dd for the definition of the item</dd>
+</dl>
+<h1 align="center"><font family="CenturyGothic"><strong><u>tables</u></strong></font></h1>
+<table align="center" border="5" width="1000" cellpadding="5" cellspacing="3">
+<tr>
+<th align="center" colspan="4" bgcolor="#252525"><font color="#FFFFFF">tags</font></th>
+</tr>
+<tr>
+<th align="center" width="250" bgcolor="#4683B7"><font color="#FFFFFF">table</font></th>
+<th align="center" width="250"bgcolor="#57A0D3"><font color="#FFFFFF">table row(tr)</font></th>
+<th align="center" width="250" bgcolor="#79F6FC"><font color="#FFFFFF">table head(th)</font></th>
+<th align="center" width="250" bgcolor="#95CADB"><font color="#FFFFFF">table data(td)</font></th>
+</tr>
+<tr>
+<td align="center" valign="center" width="250"><font color="#FFFFFF">The tag to make the whole table</font></td>
+<td align="center" valign="center" width="250"><font color="#FFFFFF">the tag to make a row in the cell</font></td>
+<td align="center" valign="center" width="250"><font color="#FFFFFF">the tag to make a heading for a column</font></td>
+<td align="center" valign="center" width="250"><font color="#FFFFFF">the tag to make a cell in the table</font></td>
+</tr>
+<tr>
+<th align="center" colspan="4" bgcolor="#252525"><font color="#FFFFFF">some attributes</font></th>
+</tr>
+<tr>
+<td align="center" valign="center" width="100" colspan="4"><font color="#FFFFFF">align</font></td>
+</tr>
+<tr>
+<td align="center" valign="center" width="100" colspan="4"><font color="#FFFFFF">bgcolor</font></td>
+</tr>
+<tr>
+<td align="center" valign="center" width="100" colspan="4"><font color="#FFFFFF">background(exept for table row)</font></td>
+</tr>
+<tr>
+<td align="center" valign="center" width="100" colspan="4"><font color="#FFFFFF">height and width</font></td>
+</tr>
+</table><br><br>
+<table align="center">
+<tr>
+<td>
+<h1 align="center"><font family="CenturyGothic" color="#FFFFFF><strong><u>forms</u></strong></font></h1>
+<a href="Q1L8(3).pdf"><img src="Screenshot 2024-09-30 205144.png" alt="ICT Forms PPT" width="300" width="250"><br>~Forms ppt of Ms. Uminga~</a>
+</td>
+</tr>
+</table>
+</font>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<html>
+<head><title>lesson 3</title>
+<link rel="stylesheet" type"text/css" href="lesson 3.css"></head>
+<body>
+<p>colors</p>
+</body>
+</html>

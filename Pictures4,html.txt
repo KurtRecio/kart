@@ -1,0 +1,36 @@
+<html>
+<head><title>Pictures</title>
+<link rel="stylesheet" type"text/css" href="4th Qtr.css">
+</head>
+<body>
+<h1>Pictures for 3rd and 4th Quarter</h1>
+<p>Since this is the last quarter, I want to give recognition to all the significant people that helped me through this quarter.<br>Those being Cai,Ayin,Jaz,Luke,Mav,Cairis,and Inigo.</p>
+<br>
+<div id="i1"><img src="Screenshot 2025-03-16 191152.png" alt="Cai"></div>
+<div id="i7"><img src="484184889_1278743949892668_2714660464646470793_n.jpg" alt="Ayin"></div>
+<div id="i8"><img src="Screenshot 2025-03-16 192509.png" alt="Jaz"></div>
+<div id="i9"><img src="483029128_2148974295532517_2157425811871050288_n.jpg" alt="Luke"></div>
+<div id="i10"><img src="483737290_1129931692262146_4057430602531524759_n.jpg" alt="Mav"></div>
+<div id="i11"><img src="483461746_1688677435059210_3510927576145157847_n.jpg" alt="Cairis"></div>
+<div id="i12"><img src="476504732_1192505015644855_3896162664204677651_n.jpg" alt="Inigo"></div>
+
+
+<p>For the record, all of fidelity and even other people outside fidelity made this school year so special. These are just the people thats had the most impact on me.</p>
+
+<h2>3rd Qtr</h2><br>
+<h3>VPop</h3><br>
+<div id="i14"><img src="467006159_914583767466480_1200184764594988570_n.jpg" alt="VPop"></div><br>
+<h3>MVP</h3><br>
+<div id="i1"><img src="483386933_1353022045732951_5773258090352230097_n.jpg" alt="MVP"></div>
+<div id="i2"><img src="483545797_9052610434848286_3839053142590519734_n.jpg" alt="MVP"></div><br>
+
+
+<h2>4th Qtr</h2><br>
+<h3>streetdance</h3><br>
+<h3>kundiman</h3><br>
+<h3>Battle Of The Bands </h3><br>
+<h3>Art Fair</h3><br>
+<h3>Fidelity's Play(Mamma Mia!)</h3>
+<h2>Miscellanous Pictures</h2>
+</body>
+</html>

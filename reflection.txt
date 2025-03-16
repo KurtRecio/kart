@@ -1,0 +1,7 @@
+<html>
+<head><title>Reflection</title></head>
+<body bgcolor="#00072D">
+<h1 align="center"><font family="CenturyGothic"><u><i>**My Reflection On The First Quarter</i></u></font></h1>
+<p>     I have learned a lot in this first quarter. I've learned a lot of things about ICT and html, but I've also learned a lot about myself. I learned that I seem to give up too easily. When I sense that something is hard to do, I typically avoid it. Like reviewing for example, I'm not good at reviewing and I know this. This is why I purposefully make excuses to not review. And that typically results in my failing. And I also don't let the failure get to my head and finally snap me back into reality, no, I make jokes and laugh about it like there's no consequences to my actions. If I had to get a moral lesson from this first quarter, It's to never give up. I've given up so many times and this has led me to miss so much opportunities to better myself. This is why in the second quarter. I will try my best to believe in my own skills, while also remembering that I have my own set of limitations that I must face in order to become a better student and a better person in general.</p>
+</body>
+</html>

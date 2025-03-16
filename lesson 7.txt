@@ -1,0 +1,8 @@
+<html>
+<head><title>Lesson 7</title>
+<link rel="stylesheet" type"text/css" href="lesson 7.css">
+</head>
+<body>
+<img src="Screenshot 2024-11-30 103418.png" alt="michelangelo">Michelangelo, nicknamed Mikey, is a superhero and one of the four main characters of the Teenage Mutant Ninja Turtles comics and all related media.Characterized as the most naturally gifted of the four brothers, Michelangelo prefers leisure to training martial arts. The most jocular and energetic of the team, he is shown to be rather immature; he is known for his wisecracks, quick-wit, optimism, and love of skateboarding and pizza. He is usually depicted wearing an orange eye mask. His signature weapons are a single or dual nunchaku, though he has also been portrayed using other weapons, such as a grappling hook, manriki-gusari, kusarigama, tonfa, and a three-section staff (in some action figures). He is commonly portrayed in media as speaking with a California accent and is most associated with the "Cowabunga" expression that became a pop culture phenomenon.
+</body>
+</html>

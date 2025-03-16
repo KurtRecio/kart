@@ -1,0 +1,21 @@
+body{background-color:#00072D;color:#FFFFFF;}
+h1{font-family:Papyrus,Copperplate,fantasy;text-align:center;}
+p{font-family:"Times New Roman",times,serif;padding:20px;}`
+h2{font-family:"Courier New", "Lucida Console", monospace;}
+h3{font-family:"Courier New", "Lucida Console", monospace;}
+img{height:200px;width:200px;}
+video{height:200px;width270px;}
+#Pictures{border:0px;height:100px;width:100px;position:relative;left:530px;}
+#Lessons{border:0px;height:100px;width:100px;position:relative;left:770px;bottom:100px;}
+#i1{border:0px;position:absolute;}
+#i2{border:0px;position:relative;left:210px;}
+#i3{border:0px;position:absolute;down:210px;}
+#i4{border:0px;position:absolute;down:210;left:219px;}
+#i5{border:0px;position:relative;left:419px;}
+#i6{border:0px;position:relative;down:210;left:212px;}
+#i7{border:0px;position:absolute;left:210;}
+#i8{border:0px;position:absolute;left:414;}
+#i9{border:0px;position:absolute;left:626;}
+#i10{border:0px;position:absolute;left:838;}
+#i11{border:0px;position:absolute;left:1040;}
+#i12{border:0px;position:absolute;left:1252;}

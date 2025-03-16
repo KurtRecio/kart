@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<Body>
+<button onclick="show_prompt()">My name is</button>
+<p id="message"></p><!-- Placeholder for output -->
+<script type="text/javascript">
+function show_prompt() {
+var name = prompt("Fill in the Blanks");
+if (name !== null && name !==""){
+document.getElementById("message").innerHTML = "My name is "+ name + "! 
+And my dream is to become a Pokémon Master!";
+}}
+</script>
+</body>
+</html>

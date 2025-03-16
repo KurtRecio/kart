@@ -1,0 +1,38 @@
+<html>
+<head><title>lessons</title>
+<link rel="stylesheet" type"text/css" href="2nd Qtr.css">
+</head>
+<body>
+<h1>Lessons</h1>
+<p>In this second quarter, we had a lot of lessons. I wouldn't consider any of them as my favorite subject because each and every lesson has it's own struggles and strengths.<br><br>
+These are the lessons this quarter</p><br>
+<h2>Lessons 1&2</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 081539.png" alt="html"></div>
+<div id="l1"><img src="Screenshot 2024-11-30 082016.png" alt="txt"></div>
+<div id="l2"><img src="Screenshot 2024-11-30 083106.png" alt="css"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>Lesson 3</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 085110.png" alt="html"></div>
+<div id="l3"><img src="Screenshot 2024-11-30 085519.png" alt="txt"></div>
+<div id="l4"><img src="Screenshot 2024-11-30 090654.png" alt="css"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>Lesson 4</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 092852.png" alt="html"></div>
+<div id="l5"><img src="Screenshot 2024-11-30 093058.png" alt="txt"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>Lesson 5</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 094253.png" alt="html"></div>
+<div id="l6"><img src="Screenshot 2024-11-30 094635.png" alt="txt"></div>
+<div id="l7"><img src="Screenshot 2024-11-30 095438.png" alt="css"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>Lesson 6</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 101714.png" alt="html"></div>
+<div id="l8"><img src="Screenshot 2024-11-30 101911.png" alt="txt"></div>
+<div id="l9"><img src="Screenshot 2024-11-30 102146.png" alt="css"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>Lesson 7</h2>
+<div id="i3"><img src="Screenshot 2024-11-30 104329.png" alt="html"></div>
+<div id="l10"><img src="Screenshot 2024-11-30 104558.png" alt="txt"></div>
+<div id="l11"><img src="Screenshot 2024-11-30 104844.png" alt="css"></div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+
+<html>
+<head><title>2nd Quarter</title>
+<link rel="stylesheet" type"text/css" href="2nd Qtr.css">
+</head>
+<body>
+<h1>Second Quarter</h1>
+<p>
+<div id="Pictures"><a href="pictures2.html"><img src="Screenshot 2024-09-14 143854.jpg" alt="Pictures"><br>Pictures</a></div>
+<div id="Outputs"><a href="Outputs2.html"><img src="Screenshot 2024-09-29 211931.png" alt="output"><br>Outputs</a></div>
+<div id="Lessons"><a href="lessons2.html"><img src="Screenshot 2024-09-30 175221.png" alt="lesson"><br>Lessons</a></div>
+<div id="Reflection"><a href="reflection2.html"><img src="Screenshot 2024-09-30 211028.png" alt="reflection"><br>Reflection</a></div>
+ </p>
+</body>
+</html>

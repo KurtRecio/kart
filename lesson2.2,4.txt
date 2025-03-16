@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>switch></title>
+<script> type="text/javascript">
+function namecheck() {
+var book = document.formbook.cmbbook.value;
+switch(book){
+case "1" :
+alert("dragonite");break;
+case "2":
+alert("tyranitar");break;
+case "3":
+alert("metagross");break;
+case "4":
+alert("garchomp");break;
+default:
+alert("undetermined");
+}}
+</script>
+</head>
+<body>
+<p>Generations</p>
+<form name="formbook">
+<select name="cmbbook">
+<option value="1">Kanto</option>
+<option value="2">Jhoto</otion>
+<option value="3">Hoenn</option>
+<option value="4">Sinnoh</option>
+</select>
+<input type="button" name="combo" value="SUBMIT" onClick="namecheck()">
+</form>
+</body>
+</html>
